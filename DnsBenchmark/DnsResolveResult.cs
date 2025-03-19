@@ -1,4 +1,4 @@
-namespace DnsResolverTiming;
+namespace DnsBenchmark;
 
 public readonly record struct DnsResolveResult(double? UdpResolveTime, double? DoHResolveTime, double? DoTResolveTime)
 {

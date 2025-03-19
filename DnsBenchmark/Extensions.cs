@@ -1,6 +1,6 @@
 using System.Globalization;
 
-namespace DnsResolverTiming;
+namespace DnsBenchmark;
 
 public static class Extensions
 {

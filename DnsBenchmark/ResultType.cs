@@ -1,4 +1,4 @@
-namespace DnsResolverTiming;
+namespace DnsBenchmark;
 
 public enum ResultType
 {

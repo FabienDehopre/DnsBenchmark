@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnsResolverTiming", "DnsResolverTiming\DnsResolverTiming.csproj", "{AE5FCDB2-CEA6-4A1B-AC3E-070445B6EB3E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnsBenchmark", "DnsBenchmark\DnsBenchmark.csproj", "{AE5FCDB2-CEA6-4A1B-AC3E-070445B6EB3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

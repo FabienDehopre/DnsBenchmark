@@ -1,1 +1,1 @@
-# DnsResolverTiming
+# DnsBenchmark
